@@ -19,4 +19,4 @@ This project is an improved version of the app created during a lesson. It inclu
 
 ## Screenshots
 
-![gitHubGif](https://github.com/StasyaOmak/AutoLayoutApp/assets/127408467/0fe426d6-7d08-480a-99cd-8946f58dfe7b) ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-10-21 at 18 33 38 (1)](https://github.com/StasyaOmak/AutoLayoutApp/assets/127408467/11ba5004-e71c-4cbf-9b28-9d0b3b4332a4)
+![gitHubGif](https://github.com/StasyaOmak/AutoLayoutApp/assets/127408467/0fe426d6-7d08-480a-99cd-8946f58dfe7b) ![Simulator Screenshot - iPhone SE (3rd generation) - 2023-10-21 at 18 33 38 (2)](https://github.com/StasyaOmak/AutoLayoutApp/assets/127408467/3ebf6b58-0db3-46af-8821-9c8fddc5cbd0)
